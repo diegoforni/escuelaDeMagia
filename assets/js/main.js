@@ -83,5 +83,9 @@
   	$('#wpp').on('click', function(){
     	window.open("https://api.whatsapp.com/send?phone=542615901836&text=Hola,%20quiero%20inscribirme!");
   })
+  	// Whastapp
+  	$('#wpp1').on('click', function(){
+    	window.open("https://api.whatsapp.com/send?phone=542615901836&text=Hola,%20quiero%20inscribirme!");
+  })
 
 })(jQuery);
